@@ -25,9 +25,9 @@ O programa:
 - Exibe a matriz resultante.
 
 🛠️ Tecnologias utilizadas
-- C
-- OpenMP
-- Ambiente recomendado: MinGW; GCC; Linux; WSL ou qualquer compilador com suporte a OpenMP
+- C;
+- OpenMP;
+- Ambiente recomendado: MinGW; GCC; Linux; WSL ou qualquer compilador com suporte a OpenMP.
 
 📦 Como compilar
 - No Linux / WSL / MinGW (GCC):
